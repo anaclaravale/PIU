@@ -1,0 +1,13 @@
+.personagem-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+    padding: 20px;
+  }
+
+.personagem img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
